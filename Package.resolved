@@ -1,0 +1,15 @@
+{
+  "originHash" : "c8b1e0e6c6985a48bc92bfbde7203c57064671c1295c3e10e8f76317c4fef80a",
+  "pins" : [
+    {
+      "identity" : "waktrainercoremodels",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iosdevbyul/WakTrainerCoreModels",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5ca1490e4ca94203eb3123d677fe4124e5bcf90d"
+      }
+    }
+  ],
+  "version" : 3
+}
