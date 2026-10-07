@@ -24,6 +24,9 @@ let package = Package(
             name: "UserProfileFeature",
             dependencies: [
                 .product(name: "WakTrainerCoreModels", package: "WakTrainerCoreModels")
+            ],
+            resources: [
+                .process("Resources")
             ]
         ),
         .testTarget(
