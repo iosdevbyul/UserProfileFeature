@@ -1,0 +1,12 @@
+"profile.gender" = "성별";
+"profile.gender.male" = "남성";
+"profile.gender.female" = "여성";
+"profile.gender.other" = "기타";
+"profile.birth_date" = "생년월일";
+"profile.height" = "신장 (키)";
+"profile.height_placeholder" = "신장 입력";
+"profile.weight" = "체중";
+"profile.weight_placeholder" = "체중 입력";
+"profile.unit" = "단위";
+"profile.save" = "프로필 저장";
+"profile.navigation_title" = "신체 정보 설정";
