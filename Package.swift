@@ -6,6 +6,7 @@ import PackageDescription
 
 let package = Package(
     name: "UserProfileFeature",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v14),
         .macOS(.v13)
@@ -24,6 +25,9 @@ let package = Package(
             name: "UserProfileFeature",
             dependencies: [
                 .product(name: "WakTrainerCoreModels", package: "WakTrainerCoreModels")
+            ],
+            resources: [
+                .process("Resources")
             ]
         ),
         .testTarget(

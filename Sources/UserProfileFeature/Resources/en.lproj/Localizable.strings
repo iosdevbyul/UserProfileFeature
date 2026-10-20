@@ -1,0 +1,12 @@
+"profile.gender" = "Gender";
+"profile.gender.male" = "Male";
+"profile.gender.female" = "Female";
+"profile.gender.other" = "Other";
+"profile.birth_date" = "Date of Birth";
+"profile.height" = "Height";
+"profile.height_placeholder" = "Enter height";
+"profile.weight" = "Weight";
+"profile.weight_placeholder" = "Enter weight";
+"profile.unit" = "Unit";
+"profile.save" = "Save Profile";
+"profile.navigation_title" = "Body Information";
